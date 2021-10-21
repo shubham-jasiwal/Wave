@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "672123247087",
+    "project_id": "face-pattern",
+    "storage_bucket": "face-pattern.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:672123247087:android:b464adea7fed5e18373e1a",
+        "android_client_info": {
+          "package_name": "com.shubham.face_recognition"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "672123247087-imlep5opurhmqh1k6og99ed2uh2949tu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkkoDOP_8lDpdzGGXVvzJ383Kar6ay5rg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "672123247087-imlep5opurhmqh1k6og99ed2uh2949tu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
